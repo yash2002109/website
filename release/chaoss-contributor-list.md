@@ -1,5 +1,5 @@
 
-# CHAOSS Contributors
+## CHAOSS Contributors
 
 Aastha Bist,
 Abhinav Bajpai,
@@ -179,3 +179,20 @@ Zibby Keaton
 
 Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue. Created a Pull Request. Gave feedback on our work. Please open an issue or post on the mailing list if we've missed anyone. 
 
+## CHAOSS Governing Board Members
+
+- Amy Marrich, Red Hat
+- Andrea Gallo, Linaro
+- Armstrong Foundjem, MCIS Laboratory at Queen's University
+- Daniel Izquierdo, Bitergia
+- Daniel M. German, University of Victoria
+- Dawn Foster, VMware
+- Don Marti, CafeMedia
+- Georg Link, Bitergia
+- Ildikó Vancsa, OpenStack
+- Kate Stewart, Linux Foundation
+- Matt Germonprez, University of Nebraska at Omaha
+- Nicole Huesman, Intel
+- Ray Paik, GitLab
+- Sean Goggins, University of Missouri
+- Wayne Beaton, Eclipse Foundation
